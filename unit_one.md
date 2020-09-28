@@ -109,9 +109,7 @@
 |------------------------------------------------|----------------------------------------------------------|
 | APIs                                    | [link](https://tmdarneille.gitbook.io/sei-ga-sea/00readme)   |
 | Fetch                                 | [Fetch](https://tmdarneille.gitbook.io/sei-ga-sea/00readme/fetch), [AJAX w/ Fetch](https://tmdarneille.gitbook.io/sei-ga-sea/00readme/ajax-fetch)  | 
-| Deliverable: Reddit Slideshow                              | [TODO]  |
-
-- [  ] TODO Find Reddit repo
+| Deliverable: Reddit Slideshow                              | [link]  |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
@@ -121,7 +119,7 @@
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| HTML Forms                                | [Repo](https://github.com/romebell/html-forms)   |
+| HTML Forms                                | [link](https://github.com/romebell/html-forms)   |
 | OOP in JavaScript                                  | [link](https://gawdiseattle.gitbook.io/wdi/javascript/01-js-oop-2019)   | 
 | Promises                                | [link](https://tmdarneille.gitbook.io/sei-ga-sea/javascript/js-control-flow/05promises#creating-a-promise), [JavaScript Promise for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)   |
 | Async/Await                     | [link](https://tmdarneille.gitbook.io/sei-ga-sea/javascript/additional-topics/ajax-async-await), [javascript.info](https://javascript.info/async-await)  |
