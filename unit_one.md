@@ -109,7 +109,7 @@
 |------------------------------------------------|----------------------------------------------------------|
 | APIs                                    | [link](https://tmdarneille.gitbook.io/sei-ga-sea/00readme)   |
 | Fetch                                 | [Fetch](https://tmdarneille.gitbook.io/sei-ga-sea/00readme/fetch), [AJAX w/ Fetch](https://tmdarneille.gitbook.io/sei-ga-sea/00readme/ajax-fetch)  | 
-| Deliverable: Reddit Slideshow                              | [link]  |
+| Deliverable: Reddit Slideshow                              | [link](https://github.com/romebell/fetch-reddit-slideshow)  |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
