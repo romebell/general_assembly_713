@@ -81,71 +81,69 @@
 
 
 ## `Week 5`
-## Monday `07/16/2020` | `Day 4`
+## Monday `08/10/2020` | `Day 1`
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| JS Fudamentals*                                | [link]()   |
-| CSS Selectors                                  | [link]()   | 
-| CSS Box Model*                                 | [link]()   |
-| CSS Display & Positioning*                     | [link]()   |
-| Deliverable: Airbnb Mockup                     | [link]()   | 
+| Review Deliverable: Pokedex               | `TODO`   |
+| Lab: OMBD Part 2               | [link](Description:https://github.com/TaylorDarneille/express-apis-omdb/blob/master/readme.md)   |
+| Review Lab               | `TODO`   |
+| Sequelize 1:M               | [link](https://tmdarneille.gitbook.io/sei-ga-sea/05-node-express/express-sequelize/express-1-to-many)   |
+| Code-Along: Express Blogpulse Part 1 (1:M)               | [link](https://github.com/WDI-SEA/express-blogpulse)   |
+| Lab/Deliverable: Blogpulse Part 2               | [link](https://github.com/WDI-SEA/express-blogpulse)   |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
 | Video 1          | [link]()   | `` |
 
-## Tuesday `07/17/2020` | `Day 2`
+## Tuesday `08/11/2020` | `Day 2`
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| JS Fudamentals*                                | [link]()   |
-| CSS Selectors                                  | [link]()   | 
-| CSS Box Model*                                 | [link]()   |
-| CSS Display & Positioning*                     | [link]()   |
-| Deliverable: Airbnb Mockup                     | [link]()   | 
+Review Deliverable                 | `TODO`   |
+Review OMDB Part 2 Lab                 | `TODO`   |
+Sequlize N:M                 | [link](https://tmdarneille.gitbook.io/sei-ga-sea/05-node-express/express-sequelize/express-many-to-many)   |
+Code-Along: project organizer P1&P2                 | [link](https://github.com/WDI-SEA/express-project-organizer)   |
+Lab/Deliverable: Project Organizer                 | [link](https://github.com/WDI-SEA/express-project-organizer)   |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
 | Video 1          | [link]()   | `` |
 
-## Wednesday `07/16/2020` | `Day 3`
+## Wednesday `08/12/2020` | `Day 3`
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| JS Fudamentals*                                    | [link]()   |
-| CSS Selectors                                  | [link]()   | 
-| CSS Box Model*                                 | [link]()   |
-| CSS Display & Positioning*                     | [link]()   |
-| Deliverable: Airbnb Mockup                     | [link]()   | 
+Code-Along: Cloudinary                      | [link](https://tmdarneille.gitbook.io/sei-ga-sea/05-node-express/additional-topics/express-cloudinary)   |
+Lab: MVC Diagram                      | `TODO`   |
+Review Deliverable                      | `TODO`   |
+Code-Along: Web-Scraping w/ Cheerio                      | [link](ttps://tmdarneille.gitbook.io/sei-ga-sea/javascript/additional-topics/js-data-scraping)   |
+Mapbox Code-Along                      | [link](https://github.com/WDI-SEA/Mapbox-travelers)   |
+Deliverables: P2 Ideas & BlogPulse                      | [BlogPulse](https://github.com/WDI-SEA/express-blogpulse), [P2 Ideas](https://github.com/TaylorDarneille/Project2Ideas)   |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
 | Video 1          | [link]()   | `` |
 
-## Thursday `07/17/2020` | `Day 4`
+## Thursday `08/13/2020` | `Day 4`
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| JS Fudamentals*                                | [link]()   |
-| CSS Selectors                                  | [link]()   | 
-| CSS Box Model*                                 | [link]()   |
-| CSS Display & Positioning*                     | [link]()   |
-| Deliverable: Airbnb Mockup                     | [link]()   | 
+Review Blogpulse P2                  | `TODO`   |
+Auth                  | `TODO`   |
+Deliverable: P2 Pitches Part 2                  | [link](ttps://github.com/TaylorDarneille/Project2Ideas)   |
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
 | Video 1          | [link]()   | `` |
 
-## Friday `07/16/2020` | `Day 5`
+## Friday `08/14/2020` | `Day 5`
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
-| JS Fudamentals*                                    | [link]()   |
-| CSS Selectors                                  | [link]()   | 
-| CSS Box Model*                                 | [link]()   |
-| CSS Display & Positioning*                     | [link]()   |
-| Deliverable: Airbnb Mockup                     | [link]()   | 
+Auth                                            | `TODO`   | 
+Guest Lesson: AGILE w/ Shawn Adams              | `TODO`   | 
+P2 Prep: Set up your sprints & test              | [link](https://tmdarneille.gitbook.io/sei-ga-sea/11-projects/project-2#project-feedback-evaluation)   | 
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
