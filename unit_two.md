@@ -148,3 +148,9 @@ P2 Prep: Set up your sprints & test              | [link](https://tmdarneille.gi
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
 | Video 1          | [link]()   | `` |
+
+## Week 3 `Project 2 Week`
+| `Lessons`                                      | Links |
+|------------------------------------------------|----------------------------------------------------------|
+| Deploy to Heroku                       | [link](https://tmdarneille.gitbook.io/sei-ga-sea/00-config-deployment/deploy-node#heroku-deployment-with-node-sequelize)   |
+| Presentations                             | `TODO`   | 
