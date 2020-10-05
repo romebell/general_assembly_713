@@ -15,7 +15,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/y8VMaJj-8lhOSZHo7HDdY5coB9XuT6a8gHAcr_NcyRoPFVfaZ-me2w1wvkVIbEqE?startTime=1596486654000)   | `c4@nD9#9` |
 
 ## Tuesday `08/04/2020` | `Day 2`
 
@@ -30,7 +30,8 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/5OFuJrfy921JRKPXsF7BZYl6R6jceaa8h3Aa8_pfzU1ldrdwvtsdfm-3AyZo3Yhz)   | `#xGS?f!1` |
+| Video 2          | [link](https://generalassembly.zoom.us/rec/share/5pVaAL-37FpLGNL_5FCGRLMxPIC5X6a8gygb86YEnRz-1fFosHsmcqsZaXKNBAqe)   | ` t0!cEb!J` |
 
 ## Wednesday `08/05/2020` | `Day 3`
 
@@ -45,7 +46,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/3MwsPe_2-HhLU42Sz02DVbccRarkT6a80yVLqKAPxUgZBBUNsobyxIODVt2DedHQ)   | `1?*0Vpta` |
 
 ## Thursday `08/06/2020` | `Day 4`
 
@@ -62,9 +63,9 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/ueZPLLfbrEZOZ4H1r2SCW78fAdy8X6a813cd8vZYmhukPtxfBPWFej7ZynqaHHoh)   | `8^$JNoKQ` |
 
-## Friday `07/16/2020` | `Day 5`
+## Friday `08/07/2020` | `Day 5`
 
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
@@ -77,7 +78,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/29F6C4zU9CBOYZWOxBjCd7YrHYTuT6a81SdI8qVYz05ibJMXsHn33xZSRDV0h44C)   | `+RTV@4xw` |
 
 
 ## `Week 5`
@@ -94,7 +95,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/tMZJduj32EBOYLP_zGbYWqh4Eae7aaa80XJP8qIIyB1ypKVaERiR72AKRk4E0ZCt)   | `N9T3@sIh` |
 
 ## Tuesday `08/11/2020` | `Day 2`
 
@@ -108,7 +109,8 @@ Lab/Deliverable: Project Organizer                 | [link](https://github.com/W
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/4ehsFLv87F5LWrOS5FD5VKABO6fvX6a823Qd-aYFzkl16U9WEUbaonIX258p01k9)   | `%s5T16Wd` |
+| Video 2          | [link](https://generalassembly.zoom.us/rec/share/wMp6IIvttVFOaNbJ6E3vZ5EuMY__X6a813BK_6JbmUjHMbSk7e6iYa4dj1lX2T-f)   | `3kA+sR*W` |
 
 ## Wednesday `08/12/2020` | `Day 3`
 
@@ -123,7 +125,7 @@ Deliverables: P2 Ideas & BlogPulse                      | [BlogPulse](https://gi
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/tcFzKpTt-3NIYbPC7kLaGbIBBKOmT6a81XUZ-aFbxRnvg0CmEK8uK0M4vYnmDo6T)   | `Qv2@s=#I` |
 
 ## Thursday `08/13/2020` | `Day 4`
 
@@ -135,7 +137,7 @@ Deliverable: P2 Pitches Part 2                  | [link](ttps://github.com/Taylo
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/1MVcD5vJ7HhOYJHJ0U3edowgQprZT6a81iNP_KZeyklmyq75VBFxKIVyuFBrlqAw)   | ` gi@eL5C8` |
 
 ## Friday `08/14/2020` | `Day 5`
 
@@ -147,10 +149,10 @@ P2 Prep: Set up your sprints & test              | [link](https://tmdarneille.gi
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/_9RuL771zCRJZ4Xk72HvZr4iFY_CX6a82yZMqPMJmEaYRChYEaJ6pPPVWdHbgK_L)   | `Zf!lak32` |
 
 ## Week 3 `Project 2 Week`
 | `Lessons`                                      | Links |
 |------------------------------------------------|----------------------------------------------------------|
 | Deploy to Heroku                       | [link](https://tmdarneille.gitbook.io/sei-ga-sea/00-config-deployment/deploy-node#heroku-deployment-with-node-sequelize)   |
-| Presentations                             | `TODO`   | 
+| Presentations                             | `TODO`   |
