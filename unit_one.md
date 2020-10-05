@@ -61,7 +61,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/5e1OCZvMrmhISbPM5EbvBokFQ9_6T6a8hndLrvQMy0fUE7ZiGVnpLsS8LYtsyfTi)   | `8I@c#8$0` |
 
 ### Friday `07/17/2020` | `Day 5`
 
@@ -76,7 +76,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/xIstCKPi-2VLUtKT8HyAAJAqE528aaa8hCRP-PNYxU1TtW0SSmp_NFLI-BSgKwAo)   | `8e*1DP^6` |
 
 ## `Week 2`
 
@@ -88,7 +88,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/_OtoFJ3--2ZJZ7PM6UjQV_8QPrz5X6a80SEcqfAKzUa2AJCmKnRWyfxo4AgiefaN)   | `908K5?*5` |
 
 ### Tuesday `07/21/2020` | `Day 2`
 
@@ -101,7 +101,8 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/u8p5E6rK53JLT43T0n79Xqw_RtnHeaa8h3JK__UM9GCyw3gAw8lwJUztHR_wXQ)   | `i7Z.ZFh*` |
+| Video 2          | [link](https://generalassembly.zoom.us/rec/share/vux_Po_C3VJOWtLHw17-QastI6q1aaa81XUd-_AOyE52y5O4elOqe3xdYUlOQ8ic)   | `8#PuMYm0` |
 
 ### Wednesday `07/22/2020` | `Day 3`
 
@@ -113,7 +114,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/xv1HC7vA_GZLE8_TwX7WAZE-Lr3FT6a82yJI_KIEykYEd2Im-4MuDwdTDfgeckMK)   | `*tY2N1x!` |
 
 ### Thursday `07/23/2020` | `Day 4`
 
@@ -126,7 +127,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/3PZlLZfP6GlIQLP040zCYPcsNbjZT6a80XMe-vsOzk46BLaoO-RgRpP0tsPHgMwu)   | `PTE?hDx4` |
 
 ### Friday `07/24/2020` | `Day 5`
 
@@ -137,7 +138,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/6vZKMJWsqyBOcM_VxlHidpMQO4DZX6a803MZ-fYIzx6DXWgVwZSE89FQaY1MqXvC)   | `g@.9Bm22` |
 
 ## Week 3 `Project Week`
 | `Lessons`                                      | Links |
