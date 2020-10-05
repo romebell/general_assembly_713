@@ -14,7 +14,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/iqkrLRf8lXhVSSmsT4Gk8FysCg2--6sCtu8PKKbPiVSsGoO3lRWXANwwFDpRQ1gz.zVHuj4mjRjUbDkWq)   | `%D.Ps7ku` |
 
 ## Tuesday `09/15/2020` | `Day 2`
 
@@ -30,7 +30,8 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/6bCC7y4NfXsWhxnHJh4IyevwoehW19eGeydLZL-ZUYSBh_2Z8_ahW-dDmqenIjE_.NsvVmXk-6F3bvnj7)   | `90&gzet$` |
+| Video 2          | [link](https://generalassembly.zoom.us/rec/share/8mfJ0p8x_U1L5-fIyR2AU4qUqXkfpOqDwN3iDzfarBQWVEf-9EM7zESvujb7WQYT.8PZ3Gg9XaqmsNTsk)   | `Sj0%jt3i` |
 
 ## Wednesday `09/16/2020` | `Day 3`
 
@@ -48,7 +49,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/GdD7ebivllLZ2vLKQlZamlaTpsa95lfqZgbIXrKtPyTVE-NEmrHi8pUuifjkLXSr.wLkQc-eCR_PY6kq_)   | `DK9ma3%K` |
 
 ## Thursday `09/17/2020` | `Day 4`
 
@@ -62,7 +63,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/pfn9phQg4_aVi3-IlAzrvub5nolTePXVhuJn0SE48Bd9uZBX4bdiKh_c9HzggLSC.r-HjHOnSB0Kxsw9T)   | `@^Z4JI.4` |
 
 ## Friday `09/18/2020` | `Day 5`
 
@@ -76,7 +77,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/dCtRiatbAA45kmQAxUyPw6awICXVGMIq5eVLK-3vSm7W-blUl6cyG8IaNdVtoZDX.XzixHPFLyJRyz0-A)   | `#bg5e42t` |
 
 
 ## `Week 11`
@@ -93,7 +94,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/11UQOEwx78JMLd176vJRLq6oUKXiMYjxL4DjR8gUaNjHimXxD4j0E5mjNzSAeps0.l2DLHe68rjLqYb9X)   | `xoT1Sr.j` |
 
 ## Tuesday `09/22/2020` | `Day 2`
 
@@ -107,7 +108,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/mUApYjBJy9pgAMP1E-BFf0jh92cE7ftag0nCmXhjJtFeNWrmRvNr74daoHzmM5Y.0XwdFXawsW588qCl)   | `Kv^?Pzq3` |
 
 ## Wednesday `09/23/2020` | `Day 3`
 
@@ -119,7 +120,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/P2o6VuH_eotbu186QSBjYvmVeOJ2T89p4501UQRvnxWrSdhRbRVEBFSgoU_QxAio.6vFVTsAamTpGlQWr)   | `n3t%n*Wx` |
 
 ## Thursday `09/24/2020` | `Day 4`
 
@@ -131,7 +132,7 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/OvKwOLhxMYXhHWg7U6DUcaGE8mUlrU5xru1_SIdcfHoPQrXE5JZ529N7TFoFOWR8.eOZNFWSmX5YwCvFs)   | `MhxR5*pm` |
 
 ## Friday `09/26/2020` | `Day 5`
 
@@ -143,12 +144,16 @@
 
 | `Recordings`     | Links | Password |
 |------------------|-----|-----|
-| Video 1          | [link]()   | `` |
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/lqjl1DqW7cCfTaogCl8pr_8XsEeLjG1S0ZEi3SZozVb1Kf7S_FWTHpOe8-wHjIhl.vGVTNR2kwzriOJtA)   | `c^rre3#%` |
 
 ## Week 12 `Project 4 Week`
-| `Lessons`                                      | Links |
-|------------------------------------------------|----------------------------------------------------------|
+| `Lessons`                                  | Links |
+|--------------------------------------------|----------------------------------------------------------|
 | P4 Worktime                                | `TODO`   |
-| Django Deployment                        | [link](https://tmdarneille.gitbook.io/sei-ga-sea/00-config-deployment/deploy-django)   |
-| Presentations                             | `TODO`   |
-| P3: Reflections                     | [link](https://forms.gle/sTQdi1utFV3C96vK9) |
+| Django Deployment                          | [link](https://tmdarneille.gitbook.io/sei-ga-sea/00-config-deployment/deploy-django)   |
+| Presentations                              | `TODO`   |
+| P3: Reflections                            | [link](https://forms.gle/sTQdi1utFV3C96vK9) |
+
+| `Presentation Recordings`     | Links | Password |
+|------------------|-----|-----|
+| Video 1          | [link](https://generalassembly.zoom.us/rec/share/DjVxjny9Wy868Jhz4GcpHLCrdVHZS1rEXO97__m0zIQBdtZWynDnD2Lz4sfs5tf9.PxeKpsrbzPYwH99z?startTime=1601670942000)   | `9hn38s+K` |
