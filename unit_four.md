@@ -157,3 +157,4 @@
 | `Presentation Recordings`     | Links | Password |
 |------------------|-----|-----|
 | Video 1          | [link](https://generalassembly.zoom.us/rec/share/DjVxjny9Wy868Jhz4GcpHLCrdVHZS1rEXO97__m0zIQBdtZWynDnD2Lz4sfs5tf9.PxeKpsrbzPYwH99z?startTime=1601670942000)   | `9hn38s+K` |
+| Deployment Lesson          | [link](https://generalassembly.zoom.us/rec/share/9xoyi1nJSKIhQtuPzTblzakyrxLqQZ-SmLuANLA6UO9zSuiYmNv8gqzsHDqu-NP0.RMtt7qk_UdmOxQA9?startTime=1601577836000)   | `^*PK7^3n` |
